@@ -1,11 +1,12 @@
 # Duckhunt agent
 
-Script playing duckhunt on NES emulator.
+Script playing duckhunt on NES emulator.  
 Works for 1 duck or 2 ducks modes.
 
 To play:
-- install the packages listed in requirements.txt 
-- run python duck_hunt.py "name of the game window" eg. if using Mesen emulator > python duck_hunt.py "Mesen - Duck Hunt (PC10)"
+- Install the packages listed in requirements.txt 
+- Start your emulator and the game
+- Run python duck_hunt.py "name of the game window" eg. if using Mesen emulator > python duck_hunt.py "Mesen - Duck Hunt (PC10)"
 - A window should open showing the agent locating the duck with a green circle
 - Press escape to stop the script
 
